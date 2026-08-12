@@ -1,27 +1,39 @@
-### Hi there, this a little of my legacy 👋
-![Spide](https://c.tenor.com/AgcHnOwgmvsAAAAC/spiderman-dancing.gif)
+# Hi there, I'm SrBebo 👋
 
-###
-*Computer Science Student at [Escuela Politécnica Nacional](https://www.epn.edu.ec/)*
-###
-![Github Stats SrBebo](https://github-readme-stats.vercel.app/api?username=SrBebo&count_private=true,issues&show_icons=true&show_owner=true&theme=github_dark)
-###
-[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SrBebo&langs_count=8&theme=github_dark)](https://github.com/SrBebo/github-readme-stats)
-### Groups 
-- [Club Software EPN](https://github.com/Club-de-Software-EPN)
+<div align="center">
+  <img src="https://c.tenor.com/AgcHnOwgmvsAAAAC/spiderman-dancing.gif" width="200" alt="Spider-Man Dancing"/>
+  
+  <p><b>Computer Science Engineer | Web Security & DFIR Enthusiast</b></p>
+  
+  <!-- Badges de plataformas -->
+  <img src="https://img.shields.io/badge/CyberDefenders-14%2B_Labs_Solved-0052CC?style=for-the-badge&logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hack_This_Site-Basic_Missions_100%25-red?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/PortSwigger_Academy-Practitioner-orange?style=for-the-badge&logo=burpsuite&logoColor=white" />
+</div>
 
+---
 
-<!--
-**Fabricio2502/Fabricio2502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛡️ Resumen de Práctica & Laboratorios
 
-Here are some ideas to get you started:
+#### 🔍 CyberDefenders (Blue Team & DFIR)
+* **Laboratorios Nivel Easy:** 8 resueltos *(Network Forensics, Threat Intel, Malware Analysis)*
+* **Laboratorios Nivel Medium:** 6 resueltos *(Endpoint Forensics, Memory Dump, Ransomware Analysis)*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🌐 Web Security & Exploitation
+* **Hack This Site:** 11 / 11 misiones básicas completadas *(100% Main Basic Missions)*
+* **PortSwigger Web Security Academy:** Múltiples laboratorios resueltos en temas de *SQL Injection* y *Cross-Site Scripting (XSS)*
+
+---
+
+### 🎓 Academic & Community
+* **Education:** Computer Science Student at [Escuela Politécnica Nacional](https://www.epn.edu.ec/)
+* **Organizations:** [Club Software EPN](https://github.com/Club-de-Software-EPN)
+
+---
+
+### 📊 GitHub Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SrBebo&count_private=true&show_icons=true&show_owner=true&theme=github_dark" height="165" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SrBebo&langs_count=6&theme=github_dark" height="165" />
+</div>
