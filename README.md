@@ -34,6 +34,6 @@
 ### 📊 GitHub Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SrBebo&count_private=true&show_icons=true&show_owner=true&theme=github_dark" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SrBebo&theme=github_dark" height="165" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SrBebo&langs_count=6&theme=github_dark" height="165" />
 </div>
